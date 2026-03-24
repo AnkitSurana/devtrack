@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Ankit",
+        "email": "ankit@it.com",
+        "team": "DE"
+    },
+    {
+        "id": 2,
+        "name": "Pooja",
+        "email": "pooja@it.com",
+        "team": "backend"
+    },
+    {
+        "id": 3,
+        "name": "Manju",
+        "email": "manju@it.com",
+        "team": "SE"
+    },
+    {
+        "id": 4,
+        "name": "Poorvi",
+        "email": "poorvi@it.com",
+        "team": "frontend"
+    },
+    {
+        "id": 5,
+        "name": "Spandan",
+        "email": "spandan@it.com",
+        "team": "devops"
+    },
+    {
+        "id": 6,
+        "name": "Ranjit",
+        "email": "ranjit@it.com",
+        "team": "BA"
+    }
+]

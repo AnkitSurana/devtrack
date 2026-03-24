@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "Bug in login",
+        "description": "Crash",
+        "status": "open",
+        "priority": "critical",
+        "reporter_id": 1,
+        "created_at": "2026-03-23 16:05:26.187468"
+    },
+    {
+        "id": 2,
+        "title": "Login button not working on mobile",
+        "description": "Users on iOS 17 cannot tap the login button",
+        "status": "open",
+        "priority": "critical",
+        "reporter_id": 1,
+        "created_at": "2026-03-23 16:11:55.990102"
+    },
+    {
+        "id": 3,
+        "title": "Typo on landing page",
+        "description": "Change 'teh' to 'the'",
+        "status": "open",
+        "priority": "low",
+        "reporter_id": 1,
+        "created_at": "2026-03-23 16:11:55.990523"
+    },
+    {
+        "id": 4,
+        "title": "Button broken",
+        "description": "It crashed.",
+        "status": "open",
+        "priority": "low",
+        "reporter_id": 1,
+        "created_at": "2026-03-24 10:59:58.491221"
+    },
+    {
+        "id": 5,
+        "title": "Database connection failing in staging",
+        "description": "Seeing timeout errors when trying to read the users table.",
+        "status": "in_progress",
+        "priority": "high",
+        "reporter_id": 3,
+        "created_at": "2026-03-24 11:10:31.370664"
+    }
+]
